@@ -23,6 +23,11 @@ Predict whether a tumor is malignant or benign using supervised machine learning
 - KNN accuracy depends on value of K
 - Decision Tree can overfit if not controlled
 
+## Feature Scaling & Pipelines
+- Used StandardScaler to normalize features
+- Implemented Pipelines to prevent data leakage
+- Observed improved KNN performance after scaling
+
 ## Tools Used
 - Python
 - pandas
