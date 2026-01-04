@@ -14,6 +14,15 @@ Predict whether a tumor is malignant or benign using supervised machine learning
 - Metric: Accuracy
 - Result: (Accuracy: 0.96)
 
+## Additional Models Tested
+- K-Nearest Neighbors
+- Decision Tree
+
+## Observations
+- Logistic Regression performed consistently well
+- KNN accuracy depends on value of K
+- Decision Tree can overfit if not controlled
+
 ## Tools Used
 - Python
 - pandas
